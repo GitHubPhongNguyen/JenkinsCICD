@@ -9,6 +9,6 @@ public class TestController {
 	@GetMapping("/test")
 	public String test()
 	{
-		return "Hello World! V2 test trigger";
+		return "Hello World! V2 test trigger jenkins";
 	}
 }
